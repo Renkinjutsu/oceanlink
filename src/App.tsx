@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './oceanlogo.png';
 import './App.css';
-import Contact from './contact'
+import {Contact} from './contact'
 
 const App: React.FC = () => {
   return (
